@@ -7,4 +7,4 @@ set termguicolors
 "custom mappings
 
 "escape with jj
-inoremap <jj> <Esc>
+inoremap jj <Esc>
