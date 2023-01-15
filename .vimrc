@@ -3,7 +3,8 @@ set number
 colorscheme onedarkhc
 
 set termguicolors
-set tabstop=2
+set tabstop=4
+set shiftwidth=4
 
 "custom mappings
 
