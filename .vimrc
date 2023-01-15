@@ -1,5 +1,6 @@
 set number
 
+"github link for the colorschemen: https://github.com/pacokwon/onedarkhc.vim
 colorscheme onedarkhc
 
 if exists('+termguicolors')
